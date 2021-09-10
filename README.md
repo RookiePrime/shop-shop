@@ -1,4 +1,6 @@
 # SHOP-SHOP [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[Link to live page](https://ancient-brook-23032.herokuapp.com/)
 ## Description
 A store site using the MERN stack, taking advantage of React's Context API for global state management and Stripe for a payment system.
 
@@ -7,20 +9,12 @@ A store site using the MERN stack, taking advantage of React's Context API for g
 ## Table of Contents
 
 - [Usage](#Usage)
-
-
 - [Questions](#Questions)
 - [Code-of-Conduct](#Code-of-Conduct)
 - [License](#License)
 
-
-
 ## Usage
-This website is not a functional site for actual products. Don't try to actually buy stuff on here!
-
-
-
-
+This website is not a functional site for actual products. Don't try to actually buy stuff on here! This was a project made in the University of Toronto's Full Stack Web Development Bootcamp.
 
 ## Questions
 If you need to reach me, my GitHub username (and a link to my profile page) is [RookiePrime](https://github.com/RookiePrime) and my email address is [kiefer.levine@protonmail.com](mailto:kiefer.levine@protonmail.com).
